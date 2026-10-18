@@ -121,11 +121,4 @@ Run:
 ```bash
 python -m playwright install chromium
 ```
-
-## License
-
-Choose a license appropriate for your project before publishing it. If you intend to make the code open source, consider adding a `LICENSE` file.
-
----
-
 **Disclaimer:** This project is provided for educational purposes. It is not affiliated with or endorsed by SlideShare.
